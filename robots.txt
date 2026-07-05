@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://krishn1232427.github.io/krishna-pinnamaneni-site/sitemap.xml
