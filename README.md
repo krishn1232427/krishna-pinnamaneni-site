@@ -19,8 +19,8 @@ This can be hosted as plain static HTML on GitHub Pages, Cloudflare Pages, Netli
 Vercel, or any basic web host. If deploying to a custom personal domain, update
 the canonical URL and Open Graph URL in `index.html`.
 
-The PayPal reference is framed as professional context. The independent apps and
-books are explicitly separated from PayPal in the hero note.
+The page separates Krishna's PayPal work from independent apps and books in the
+hero note.
 
 ## Pre-deploy checklist
 
