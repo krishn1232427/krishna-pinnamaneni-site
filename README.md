@@ -12,6 +12,10 @@ Published URL: <https://krishn1232427.github.io/krishna-pinnamaneni-site/>
 - `favicon.svg` and `site.webmanifest` - browser identity files.
 - `404.html` - static-host fallback page.
 - `robots.txt` - basic crawler allowlist.
+- `sitemap.xml` - URL list for search crawlers.
+- `llms.txt` and `llms-full.txt` - AI-readable profile and catalog summaries.
+- `ai-index.json` and `catalog.json` - machine-readable profile, product, book,
+  and browser-tool data.
 
 ## Deployment notes
 

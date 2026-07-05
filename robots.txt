@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+# AI and search crawlers may use llms.txt, llms-full.txt, ai-index.json, and catalog.json.
 Sitemap: https://krishn1232427.github.io/krishna-pinnamaneni-site/sitemap.xml

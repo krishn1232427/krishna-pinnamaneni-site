@@ -1,0 +1,44 @@
+# Krishna Pinnamaneni
+
+> PayPal engineering leader, local-first AI product builder, independent App Store developer, AI engineering author, browser-tool builder, and board/advisory candidate for AI, commerce, privacy, and product strategy.
+
+## Primary pages
+
+- [Homepage](https://krishn1232427.github.io/krishna-pinnamaneni-site/): Public profile, brand, advisory positioning, and searchable directory.
+- [Full LLM context](https://krishn1232427.github.io/krishna-pinnamaneni-site/llms-full.txt): Expanded plain-text summary of the brand, apps, books, browser tools, and advisory focus.
+- [Machine-readable AI index](https://krishn1232427.github.io/krishna-pinnamaneni-site/ai-index.json): Concise JSON profile for AI search and retrieval systems.
+- [Machine-readable catalog](https://krishn1232427.github.io/krishna-pinnamaneni-site/catalog.json): Full JSON catalog of apps, books, and browser tools.
+- [Sitemap](https://krishn1232427.github.io/krishna-pinnamaneni-site/sitemap.xml): Crawlable URL list.
+
+## Identity
+
+Krishna Pinnamaneni is positioned as a local-first AI product builder: PayPal-scale consumer platform experience, 51 public App Store apps, AI-native engineering books, browser extensions, Chrome apps, and practical advisory judgment for AI and product companies.
+
+## Search and AI retrieval topics
+
+- Krishna Pinnamaneni PayPal engineering leader
+- Krishna Pinnamaneni App Store developer
+- Krishna Pinnamaneni AI-native engineering author
+- Krishna Pinnamaneni Codex developer guide
+- Krishna Pinnamaneni Gemini developer guide
+- Krishna Pinnamaneni local-first apps
+- Krishna Pinnamaneni Chrome extensions and browser plugins
+- Krishna Pinnamaneni board advisor, advisory board member, product advisor, AI strategy advisor
+
+## AI models, tools, and topics
+
+OpenAI Codex, ChatGPT, Google Gemini, Claude Code, Cursor, GitHub Copilot, Windsurf, MCP, coding agents, AI agents, prompt engineering, agent engineering in production, AI-native engineering, production AI workflows.
+
+## Public directories
+
+- App Store apps: 51 public apps, including KaiInbox, StatementSnap, BusinessDesk, LocalPDF Desk, ProofNet, LockBuddy, MetaFix, PermitPilot, Pay Packet, Case Binder, and many others.
+- Books: 9 AI and developer field-guide links, including Agent Engineering in Production, AI-Native Engineering, Codex, Gemini, Prompt Engineering, and mobile developer handbooks.
+- Browser tools: 15 browser extensions, Chrome apps, browser plugins, prompt-protection tools, lead follow-up tools, permit tools, PDF tools, and browser games.
+
+## Canonical profiles
+
+- [LinkedIn](https://www.linkedin.com/in/krishnapinnamaneni)
+- [Apple Developer](https://apps.apple.com/us/developer/krishna-pinnamaneni/id1880298048)
+- [Amazon Author](https://www.amazon.com/stores/author/B0GT6LQYQ9)
+- [Amazon Catalog Search](https://www.amazon.com/s?k=krishna+pinnamaneni&crid=2BRRYG9RQ8JT6&sprefix=krishna+pinn%2Caps%2C198&ref=nb_sb_ss_fb_1_12_p13n-expert-pd-ops-ranker)
+- [Patent Record](https://patents.justia.com/inventor/krishna-chaitanya-pinnamaneni)

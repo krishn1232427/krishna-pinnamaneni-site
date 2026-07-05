@@ -346,7 +346,8 @@ a {
 }
 
 .brand-section,
-.advisory-section {
+.advisory-section,
+.faq-section {
   background: #f1eee6;
 }
 
@@ -628,6 +629,10 @@ a {
   margin: -4px 0 18px;
 }
 
+.ai-topics-section {
+  background: var(--paper-strong);
+}
+
 .proof-list {
   display: grid;
   gap: 12px;
@@ -713,6 +718,50 @@ a {
 
 .advisory-grid p {
   margin: 12px 0 0;
+  color: var(--muted);
+}
+
+.topic-grid,
+.faq-grid {
+  display: grid;
+  gap: 14px;
+}
+
+.topic-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.faq-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.topic-grid article,
+.faq-grid article {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 253, 248, 0.88);
+}
+
+.topic-grid article {
+  min-height: 230px;
+  padding: 22px;
+}
+
+.faq-grid article {
+  min-height: 190px;
+  padding: 22px;
+}
+
+.topic-grid h3,
+.faq-grid h3 {
+  margin: 0;
+  font-size: 1.18rem;
+  line-height: 1.14;
+}
+
+.topic-grid p,
+.faq-grid p {
+  margin: 14px 0 0;
   color: var(--muted);
 }
 
@@ -894,6 +943,8 @@ a {
   .directory-stats,
   .directory-grid,
   .advisory-grid,
+  .topic-grid,
+  .faq-grid,
   .proof-list article {
     grid-template-columns: 1fr;
   }

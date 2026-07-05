@@ -1,0 +1,70 @@
+{
+  "name": "Krishna Pinnamaneni",
+  "canonical_url": "https://krishn1232427.github.io/krishna-pinnamaneni-site/",
+  "brand": "Local-first AI product builder",
+  "summary": "Krishna Pinnamaneni is a PayPal engineering leader, independent app developer, AI engineering author, browser-tool builder, and board/advisory candidate for AI, commerce, privacy, local-first software, and product strategy.",
+  "primary_search_intents": [
+    "Krishna Pinnamaneni PayPal engineering leader",
+    "Krishna Pinnamaneni App Store developer",
+    "Krishna Pinnamaneni AI-native engineering author",
+    "Krishna Pinnamaneni Codex developer guide",
+    "Krishna Pinnamaneni Gemini developer guide",
+    "Krishna Pinnamaneni Chrome extensions browser tools",
+    "Krishna Pinnamaneni board advisor AI product strategy"
+  ],
+  "known_for": [
+    "PayPal-scale consumer platform engineering",
+    "Local-first apps for records, privacy, PDFs, finance, small business, and field workflows",
+    "AI-native engineering books and developer field guides",
+    "Browser extensions, Chrome apps, Safari/browser guard tools, and prompt-protection workflows",
+    "Board and advisory judgment for AI, commerce, privacy, developer tools, and product strategy"
+  ],
+  "ai_models_tools_and_topics": [
+    "OpenAI Codex",
+    "ChatGPT",
+    "Google Gemini",
+    "Claude Code",
+    "Cursor",
+    "GitHub Copilot",
+    "Windsurf",
+    "MCP",
+    "coding agents",
+    "AI agents",
+    "prompt engineering",
+    "AI-native engineering",
+    "agent engineering in production",
+    "production AI workflows"
+  ],
+  "advisory_focus": [
+    "AI adoption and governance",
+    "developer tools",
+    "consumer commerce",
+    "fintech",
+    "privacy-preserving workflows",
+    "local-first products",
+    "App Store portfolio strategy",
+    "technical diligence",
+    "product strategy",
+    "board advisory"
+  ],
+  "source_files": {
+    "homepage": "https://krishn1232427.github.io/krishna-pinnamaneni-site/",
+    "llms_txt": "https://krishn1232427.github.io/krishna-pinnamaneni-site/llms.txt",
+    "llms_full": "https://krishn1232427.github.io/krishna-pinnamaneni-site/llms-full.txt",
+    "catalog_json": "https://krishn1232427.github.io/krishna-pinnamaneni-site/catalog.json",
+    "sitemap": "https://krishn1232427.github.io/krishna-pinnamaneni-site/sitemap.xml",
+    "robots": "https://krishn1232427.github.io/krishna-pinnamaneni-site/robots.txt"
+  },
+  "counts": {
+    "app_store_apps": 51,
+    "books": 9,
+    "browser_tools": 15
+  },
+  "canonical_profiles": {
+    "linkedin": "https://www.linkedin.com/in/krishnapinnamaneni",
+    "apple_developer": "https://apps.apple.com/us/developer/krishna-pinnamaneni/id1880298048",
+    "amazon_author": "https://www.amazon.com/stores/author/B0GT6LQYQ9",
+    "amazon_catalog_search": "https://www.amazon.com/s?k=krishna+pinnamaneni&crid=2BRRYG9RQ8JT6&sprefix=krishna+pinn%2Caps%2C198&ref=nb_sb_ss_fb_1_12_p13n-expert-pd-ops-ranker",
+    "patent_record": "https://patents.justia.com/inventor/krishna-chaitanya-pinnamaneni"
+  }
+}
