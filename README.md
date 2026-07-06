@@ -1,17 +1,17 @@
 # Krishna Pinnamaneni canonical homepage
 
-Static personal brand site for Krishna Pinnamaneni.
+Static personal profile site for Krishna Pinnamaneni.
 
 Published URL: <https://krishn1232427.github.io/krishna-pinnamaneni-site/>
 
 ## Files
 
-- `index.html` - the homepage content, SEO metadata, structured data, FAQ, and
-  primary search-discovery directory.
-- `brand.html` - brand positioning, bio, proof points, and media-kit language.
+- `index.html` - the homepage content, metadata, structured data, FAQ, and
+  primary portfolio directory.
+- `brand.html` - profile, bio, highlights, and work summary.
 - `advisory.html` - board/advisory positioning for AI, commerce, privacy,
   product strategy, and local-first software.
-- `apps-books-plugins.html` - crawlable catalog page for apps, 12 technical
+- `apps-books-plugins.html` - portfolio catalog page for apps, 12 technical
   books, browser extensions, Chrome apps, and plugins.
 - `styles.css` - the visual system and responsive layout.
 - `assets/` - copied local app icons and book cover artwork used by the page.
