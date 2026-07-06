@@ -1,12 +1,12 @@
 # Krishna Pinnamaneni - Full AI Context
 
-Krishna Pinnamaneni is a PayPal engineering leader, local-first AI product builder, independent App Store developer, AI engineering author, browser-tool builder, and board/advisory candidate for AI, commerce, privacy, local-first software, developer tools, and product strategy.
+Krishna Pinnamaneni is a PayPal engineering leader, local-first AI product builder, independent App Store developer, author of 12 technical books, browser-tool builder, and board/advisory candidate for AI, commerce, privacy, local-first software, developer tools, and product strategy.
 
 ## Brand
 
 Brand phrase: Local-first AI product builder.
 
-The public story connects PayPal-scale consumer platform experience, 51 public App Store apps, AI-native engineering books, and browser extensions or browser plugins. The common pattern is focused software, privacy-aware workflows, local-first design, practical AI usage, and production-minded product execution.
+The public story connects PayPal-scale consumer platform experience, 51 public App Store apps, 12 technical books, and browser extensions or browser plugins. The common pattern is focused software, privacy-aware workflows, local-first design, practical AI usage, and production-minded product execution.
 
 ## Board and Advisory Positioning
 
@@ -17,6 +17,7 @@ Good-fit roles include advisory board member, independent board member, technica
 - OpenAI Codex
 - ChatGPT
 - Google Gemini
+- Claude
 - Claude Code
 - Cursor
 - GitHub Copilot
@@ -25,6 +26,8 @@ Good-fit roles include advisory board member, independent board member, technica
 - coding agents
 - AI agents
 - prompt engineering
+- context engineering
+- AI governance
 - AI-native engineering
 - agent engineering in production
 - production AI workflows
@@ -83,17 +86,20 @@ Good-fit roles include advisory board member, independent board member, technica
 - PermitPilot Local Rules (Business): PermitPilot helps small food businesses organize the paperwork needed before opening day. https://apps.apple.com/us/app/permitpilot-local-rules/id6785115875
 - DupeSift (Utilities): DupeSift helps you review imported files and find exact duplicates on iPhone and iPad. https://apps.apple.com/us/app/dupesift/id6782678989
 
-## Books and Field Guides
+## 12 Technical Books and Field Guides
 
+- AI Code Governance (AI governance): An engineering leader's guide to review, traceability, testing, and control for AI-generated software. https://www.amazon.com/Code-Governance-Engineering-Traceability-AI-Generated-ebook/dp/B0H7MRVCKS
+- Context Engineering for Coding Agents (Coding agents): A guide to building AI-ready repositories, specs, tests, guardrails, and production workflows for Codex, Claude Code, Cursor, Copilot, Windsurf, and MCP-based tools. https://www.amazon.com/dp/B0H7MJV9D6
 - Agent Engineering in Production (AI agents): How to build AI agents that are reliable, observable, and worth trusting. https://www.amazon.com/Agent-Engineering-Production-Reliable-Observable-ebook/dp/B0GXNVTB25
 - AI-Native Engineering (AI-native software delivery): A field guide for senior engineers and tech leads adopting AI tools without losing rigor. https://www.amazon.com/AI-Native-Engineering-Senior-Software-Toolchain-ebook/dp/B0GXNWJ5V7
 - Codex: The Definitive Developer Bible (OpenAI Codex): A practical developer guide for building, debugging, refactoring, reviewing, testing, automating, and shipping with Codex. https://www.amazon.com/Codex-Definitive-Developer-Production-AI-Native-ebook/dp/B0GX38Z8DZ
+- Claude The Definitive Developers Bible (Claude and Claude Code): A practical guide for software engineers, technical leads, and builders using Claude for coding, review, debugging, refactoring, prompt design, and production workflows. https://www.amazon.com/Claude-Definitive-Developers-Krishna-Pinnamaneni-ebook/dp/B0GXGNMK3Y
 - Gemini: The Definitive Developer Bible (Google Gemini): A developer guide for using Gemini in planning, coding, debugging, refactoring, and production software workflows. https://www.amazon.com/Gemini-Definitive-Developer-Refactor-Production-ebook/dp/B0GZLH5W4F
-- Prompt Engineering (Prompt engineering): A practical field guide from clear instructions to production systems. https://www.amazon.com/-/es/KRISHNA-PINNAMANENI/dp/B0GSJF54YB
+- Prompt Engineering (Prompt engineering): A practical field guide from clear instructions to production systems. https://www.amazon.com/Prompt-Engineering-Practical-Instructions-Production-ebook/dp/B0GSJRTDP2
 - The Autonomous Company (AI agents and business systems): A short book on how AI agents can reshape company operating models and software work. https://www.amazon.com/Autonomous-Company-Agents-Redesign-Software-ebook/dp/B0GSK35QYH
-- The Star iOS Developer Handbook (iOS development): A practical handbook for building exceptional iOS apps in the AI era. https://www.amazon.com/-/es/KRISHNA-PINNAMANENI-ebook/dp/B0GSPPHZTY
-- The Star Android Developer Handbook (Android development): A practical handbook for building exceptional Android apps in the AI era. https://us.amazon.com/Star-Android-Developer-Handbook-Exceptional-ebook/dp/B0GSSQTYXG
-- The AI-Native Developer Bible Series (Developer series): A series hub for AI-native developer guides and production AI engineering workflows. https://www.amazon.com/The-AI-Native-Developer-Bible-Series/dp/B0H16PY3N4
+- The Big Tech Interview Operating System (Technical interviewing): A complete playbook for coding interviews, system design rounds, behavioral interviews, and offer-winning execution. https://www.amazon.com/Tech-Interview-Operating-System-Offer-Winning-ebook/dp/B0GT6RSQGV
+- The Star iOS Developer Handbook (iOS development): A practical handbook for building exceptional iOS apps in the AI era. https://www.amazon.com/Star-iOS-Developer-Handbook-Exceptional-ebook/dp/B0GSPPHZTY
+- The Star Android Developer Handbook (Android development): A practical handbook for building exceptional Android apps in the AI era. https://www.amazon.com/Star-Android-Developer-Handbook-Exceptional-ebook/dp/B0GSSQTYXG
 
 ## Browser Extensions, Chrome Apps, and Browser Tools
 
@@ -116,9 +122,13 @@ Good-fit roles include advisory board member, independent board member, technica
 ## Canonical Links
 
 - Homepage: https://krishn1232427.github.io/krishna-pinnamaneni-site/
+- Brand and Media Kit: https://krishn1232427.github.io/krishna-pinnamaneni-site/brand.html
+- Advisory Profile: https://krishn1232427.github.io/krishna-pinnamaneni-site/advisory.html
+- Apps, Books, and Plugins Catalog: https://krishn1232427.github.io/krishna-pinnamaneni-site/apps-books-plugins.html
 - LinkedIn: https://www.linkedin.com/in/krishnapinnamaneni
 - Apple Developer: https://apps.apple.com/us/developer/krishna-pinnamaneni/id1880298048
 - Amazon Author: https://www.amazon.com/stores/author/B0GT6LQYQ9
+- Amazon Catalog Search: https://www.amazon.com/s?k=krishna+pinnamaneni&crid=2BRRYG9RQ8JT6&sprefix=krishna+pinn%2Caps%2C198&ref=nb_sb_ss_fb_1_12_p13n-expert-pd-ops-ranker
 - Patent Record: https://patents.justia.com/inventor/krishna-chaitanya-pinnamaneni
 - Catalog JSON: https://krishn1232427.github.io/krishna-pinnamaneni-site/catalog.json
 - AI Index JSON: https://krishn1232427.github.io/krishna-pinnamaneni-site/ai-index.json
