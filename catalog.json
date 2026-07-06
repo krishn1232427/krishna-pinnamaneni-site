@@ -1,13 +1,14 @@
 {
   "name": "Krishna Pinnamaneni product and content catalog",
   "canonical_url": "https://krishn1232427.github.io/krishna-pinnamaneni-site/",
-  "last_updated": "2026-07-05",
+  "last_updated": "2026-07-06",
   "owner": "Krishna Pinnamaneni",
   "brand": "Local-first AI product builder",
   "counts": {
     "app_store_apps": 51,
-    "books": 9,
-    "browser_tools": 15
+    "books": 12,
+    "browser_tools": 15,
+    "technical_books": 12
   },
   "apps": [
     {
@@ -574,6 +575,18 @@
   ],
   "books": [
     {
+      "name": "AI Code Governance",
+      "category": "AI governance",
+      "summary": "An engineering leader's guide to review, traceability, testing, and control for AI-generated software.",
+      "url": "https://www.amazon.com/Code-Governance-Engineering-Traceability-AI-Generated-ebook/dp/B0H7MRVCKS"
+    },
+    {
+      "name": "Context Engineering for Coding Agents",
+      "category": "Coding agents",
+      "summary": "A guide to building AI-ready repositories, specs, tests, guardrails, and production workflows for Codex, Claude Code, Cursor, Copilot, Windsurf, and MCP-based tools.",
+      "url": "https://www.amazon.com/dp/B0H7MJV9D6"
+    },
+    {
       "name": "Agent Engineering in Production",
       "category": "AI agents",
       "summary": "How to build AI agents that are reliable, observable, and worth trusting.",
@@ -592,6 +605,12 @@
       "url": "https://www.amazon.com/Codex-Definitive-Developer-Production-AI-Native-ebook/dp/B0GX38Z8DZ"
     },
     {
+      "name": "Claude The Definitive Developers Bible",
+      "category": "Claude and Claude Code",
+      "summary": "A practical guide for software engineers, technical leads, and builders using Claude for coding, review, debugging, refactoring, prompt design, and production workflows.",
+      "url": "https://www.amazon.com/Claude-Definitive-Developers-Krishna-Pinnamaneni-ebook/dp/B0GXGNMK3Y"
+    },
+    {
       "name": "Gemini: The Definitive Developer Bible",
       "category": "Google Gemini",
       "summary": "A developer guide for using Gemini in planning, coding, debugging, refactoring, and production software workflows.",
@@ -601,7 +620,7 @@
       "name": "Prompt Engineering",
       "category": "Prompt engineering",
       "summary": "A practical field guide from clear instructions to production systems.",
-      "url": "https://www.amazon.com/-/es/KRISHNA-PINNAMANENI/dp/B0GSJF54YB"
+      "url": "https://www.amazon.com/Prompt-Engineering-Practical-Instructions-Production-ebook/dp/B0GSJRTDP2"
     },
     {
       "name": "The Autonomous Company",
@@ -610,22 +629,22 @@
       "url": "https://www.amazon.com/Autonomous-Company-Agents-Redesign-Software-ebook/dp/B0GSK35QYH"
     },
     {
+      "name": "The Big Tech Interview Operating System",
+      "category": "Technical interviewing",
+      "summary": "A complete playbook for coding interviews, system design rounds, behavioral interviews, and offer-winning execution.",
+      "url": "https://www.amazon.com/Tech-Interview-Operating-System-Offer-Winning-ebook/dp/B0GT6RSQGV"
+    },
+    {
       "name": "The Star iOS Developer Handbook",
       "category": "iOS development",
       "summary": "A practical handbook for building exceptional iOS apps in the AI era.",
-      "url": "https://www.amazon.com/-/es/KRISHNA-PINNAMANENI-ebook/dp/B0GSPPHZTY"
+      "url": "https://www.amazon.com/Star-iOS-Developer-Handbook-Exceptional-ebook/dp/B0GSPPHZTY"
     },
     {
       "name": "The Star Android Developer Handbook",
       "category": "Android development",
       "summary": "A practical handbook for building exceptional Android apps in the AI era.",
-      "url": "https://us.amazon.com/Star-Android-Developer-Handbook-Exceptional-ebook/dp/B0GSSQTYXG"
-    },
-    {
-      "name": "The AI-Native Developer Bible Series",
-      "category": "Developer series",
-      "summary": "A series hub for AI-native developer guides and production AI engineering workflows.",
-      "url": "https://www.amazon.com/The-AI-Native-Developer-Bible-Series/dp/B0H16PY3N4"
+      "url": "https://www.amazon.com/Star-Android-Developer-Handbook-Exceptional-ebook/dp/B0GSSQTYXG"
     }
   ],
   "browser_tools": [
@@ -703,6 +722,14 @@
       "name": "Sanctuary Browser Guard",
       "category": "Browser extension",
       "summary": "Preview, redact, and block sensitive prompts on ChatGPT and Gemini before they leave the browser."
+    }
+  ],
+  "series_links": [
+    {
+      "name": "The AI-Native Developer Bible Series",
+      "category": "Developer series",
+      "summary": "A series hub for AI-native developer guides and production AI engineering workflows.",
+      "url": "https://www.amazon.com/The-AI-Native-Developer-Bible-Series/dp/B0H16PY3N4"
     }
   ]
 }

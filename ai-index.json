@@ -2,7 +2,7 @@
   "name": "Krishna Pinnamaneni",
   "canonical_url": "https://krishn1232427.github.io/krishna-pinnamaneni-site/",
   "brand": "Local-first AI product builder",
-  "summary": "Krishna Pinnamaneni is a PayPal engineering leader, independent app developer, AI engineering author, browser-tool builder, and board/advisory candidate for AI, commerce, privacy, local-first software, and product strategy.",
+  "summary": "Krishna Pinnamaneni is a PayPal engineering leader, independent app developer, author of 12 technical books, browser-tool builder, and board/advisory candidate for AI, commerce, privacy, local-first software, and product strategy.",
   "primary_search_intents": [
     "Krishna Pinnamaneni PayPal engineering leader",
     "Krishna Pinnamaneni App Store developer",
@@ -15,7 +15,7 @@
   "known_for": [
     "PayPal-scale consumer platform engineering",
     "Local-first apps for records, privacy, PDFs, finance, small business, and field workflows",
-    "AI-native engineering books and developer field guides",
+    "12 technical books and developer field guides",
     "Browser extensions, Chrome apps, Safari/browser guard tools, and prompt-protection workflows",
     "Board and advisory judgment for AI, commerce, privacy, developer tools, and product strategy"
   ],
@@ -57,8 +57,9 @@
   },
   "counts": {
     "app_store_apps": 51,
-    "books": 9,
-    "browser_tools": 15
+    "books": 12,
+    "browser_tools": 15,
+    "technical_books": 12
   },
   "canonical_profiles": {
     "linkedin": "https://www.linkedin.com/in/krishnapinnamaneni",
@@ -66,5 +67,87 @@
     "amazon_author": "https://www.amazon.com/stores/author/B0GT6LQYQ9",
     "amazon_catalog_search": "https://www.amazon.com/s?k=krishna+pinnamaneni&crid=2BRRYG9RQ8JT6&sprefix=krishna+pinn%2Caps%2C198&ref=nb_sb_ss_fb_1_12_p13n-expert-pd-ops-ranker",
     "patent_record": "https://patents.justia.com/inventor/krishna-chaitanya-pinnamaneni"
-  }
+  },
+  "technical_books": [
+    {
+      "name": "AI Code Governance",
+      "category": "AI governance",
+      "summary": "An engineering leader's guide to review, traceability, testing, and control for AI-generated software.",
+      "url": "https://www.amazon.com/Code-Governance-Engineering-Traceability-AI-Generated-ebook/dp/B0H7MRVCKS"
+    },
+    {
+      "name": "Context Engineering for Coding Agents",
+      "category": "Coding agents",
+      "summary": "A guide to building AI-ready repositories, specs, tests, guardrails, and production workflows for Codex, Claude Code, Cursor, Copilot, Windsurf, and MCP-based tools.",
+      "url": "https://www.amazon.com/dp/B0H7MJV9D6"
+    },
+    {
+      "name": "Agent Engineering in Production",
+      "category": "AI agents",
+      "summary": "How to build AI agents that are reliable, observable, and worth trusting.",
+      "url": "https://www.amazon.com/Agent-Engineering-Production-Reliable-Observable-ebook/dp/B0GXNVTB25"
+    },
+    {
+      "name": "AI-Native Engineering",
+      "category": "AI-native software delivery",
+      "summary": "A field guide for senior engineers and tech leads adopting AI tools without losing rigor.",
+      "url": "https://www.amazon.com/AI-Native-Engineering-Senior-Software-Toolchain-ebook/dp/B0GXNWJ5V7"
+    },
+    {
+      "name": "Codex: The Definitive Developer Bible",
+      "category": "OpenAI Codex",
+      "summary": "A practical developer guide for building, debugging, refactoring, reviewing, testing, automating, and shipping with Codex.",
+      "url": "https://www.amazon.com/Codex-Definitive-Developer-Production-AI-Native-ebook/dp/B0GX38Z8DZ"
+    },
+    {
+      "name": "Claude The Definitive Developers Bible",
+      "category": "Claude and Claude Code",
+      "summary": "A practical guide for software engineers, technical leads, and builders using Claude for coding, review, debugging, refactoring, prompt design, and production workflows.",
+      "url": "https://www.amazon.com/Claude-Definitive-Developers-Krishna-Pinnamaneni-ebook/dp/B0GXGNMK3Y"
+    },
+    {
+      "name": "Gemini: The Definitive Developer Bible",
+      "category": "Google Gemini",
+      "summary": "A developer guide for using Gemini in planning, coding, debugging, refactoring, and production software workflows.",
+      "url": "https://www.amazon.com/Gemini-Definitive-Developer-Refactor-Production-ebook/dp/B0GZLH5W4F"
+    },
+    {
+      "name": "Prompt Engineering",
+      "category": "Prompt engineering",
+      "summary": "A practical field guide from clear instructions to production systems.",
+      "url": "https://www.amazon.com/Prompt-Engineering-Practical-Instructions-Production-ebook/dp/B0GSJRTDP2"
+    },
+    {
+      "name": "The Autonomous Company",
+      "category": "AI agents and business systems",
+      "summary": "A short book on how AI agents can reshape company operating models and software work.",
+      "url": "https://www.amazon.com/Autonomous-Company-Agents-Redesign-Software-ebook/dp/B0GSK35QYH"
+    },
+    {
+      "name": "The Big Tech Interview Operating System",
+      "category": "Technical interviewing",
+      "summary": "A complete playbook for coding interviews, system design rounds, behavioral interviews, and offer-winning execution.",
+      "url": "https://www.amazon.com/Tech-Interview-Operating-System-Offer-Winning-ebook/dp/B0GT6RSQGV"
+    },
+    {
+      "name": "The Star iOS Developer Handbook",
+      "category": "iOS development",
+      "summary": "A practical handbook for building exceptional iOS apps in the AI era.",
+      "url": "https://www.amazon.com/Star-iOS-Developer-Handbook-Exceptional-ebook/dp/B0GSPPHZTY"
+    },
+    {
+      "name": "The Star Android Developer Handbook",
+      "category": "Android development",
+      "summary": "A practical handbook for building exceptional Android apps in the AI era.",
+      "url": "https://www.amazon.com/Star-Android-Developer-Handbook-Exceptional-ebook/dp/B0GSSQTYXG"
+    }
+  ],
+  "series_links": [
+    {
+      "name": "The AI-Native Developer Bible Series",
+      "category": "Developer series",
+      "summary": "A series hub for AI-native developer guides and production AI engineering workflows.",
+      "url": "https://www.amazon.com/The-AI-Native-Developer-Bible-Series/dp/B0H16PY3N4"
+    }
+  ]
 }

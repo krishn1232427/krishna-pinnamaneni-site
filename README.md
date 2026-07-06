@@ -1,12 +1,18 @@
 # Krishna Pinnamaneni canonical homepage
 
-Static personal homepage for Krishna Pinnamaneni.
+Static personal brand site for Krishna Pinnamaneni.
 
 Published URL: <https://krishn1232427.github.io/krishna-pinnamaneni-site/>
 
 ## Files
 
-- `index.html` - the page content and SEO metadata.
+- `index.html` - the homepage content, SEO metadata, structured data, FAQ, and
+  primary search-discovery directory.
+- `brand.html` - brand positioning, bio, proof points, and media-kit language.
+- `advisory.html` - board/advisory positioning for AI, commerce, privacy,
+  product strategy, and local-first software.
+- `apps-books-plugins.html` - crawlable catalog page for apps, 12 technical
+  books, browser extensions, Chrome apps, and plugins.
 - `styles.css` - the visual system and responsive layout.
 - `assets/` - copied local app icons and book cover artwork used by the page.
 - `favicon.svg` and `site.webmanifest` - browser identity files.
@@ -14,8 +20,8 @@ Published URL: <https://krishn1232427.github.io/krishna-pinnamaneni-site/>
 - `robots.txt` - basic crawler allowlist.
 - `sitemap.xml` - URL list for search crawlers.
 - `llms.txt` and `llms-full.txt` - AI-readable profile and catalog summaries.
-- `ai-index.json` and `catalog.json` - machine-readable profile, product, book,
-  and browser-tool data.
+- `ai-index.json` and `catalog.json` - machine-readable profile, app, technical
+  book, and browser-tool data.
 
 ## Deployment notes
 
@@ -23,8 +29,8 @@ This can be hosted as plain static HTML on GitHub Pages, Cloudflare Pages, Netli
 Vercel, or any basic web host. If deploying to a custom personal domain, update
 the canonical URL and Open Graph URL in `index.html`.
 
-The page separates Krishna's PayPal work from independent apps and books in the
-hero note.
+The site separates Krishna's PayPal work from independent apps and books in the
+public copy.
 
 ## Pre-deploy checklist
 
