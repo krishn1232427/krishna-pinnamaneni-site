@@ -1,13 +1,13 @@
 # Krishna Pinnamaneni
 
-> PayPal engineering leader, local-first AI product builder, independent App Store developer, author of 12 technical books, browser-tool builder, and board/advisory candidate for AI, commerce, privacy, and product strategy.
+> PayPal engineering leader, local-first AI product builder, author of 15+ books, and independent developer of 85+ Apple App Store apps plus software for Microsoft Store, Chrome, and Android.
 
 ## Primary pages
 
 - [Homepage](https://krishn1232427.github.io/krishna-pinnamaneni-site/): Public profile, brand, advisory positioning, and searchable directory.
 - [Brand and media kit](https://krishn1232427.github.io/krishna-pinnamaneni-site/brand.html): Public bio, proof points, positioning, and canonical profile language.
 - [Advisory profile](https://krishn1232427.github.io/krishna-pinnamaneni-site/advisory.html): Board/advisory positioning for AI, commerce, privacy, product strategy, and local-first software.
-- [Apps, books, and plugins catalog](https://krishn1232427.github.io/krishna-pinnamaneni-site/apps-books-plugins.html): Crawlable catalog of apps, 12 technical books, browser extensions, and plugins.
+- [Apps, books, and plugins catalog](https://krishn1232427.github.io/krishna-pinnamaneni-site/apps-books-plugins.html): Crawlable catalog of apps, 15+ books, browser extensions, and plugins.
 - [Full LLM context](https://krishn1232427.github.io/krishna-pinnamaneni-site/llms-full.txt): Expanded plain-text summary of the brand, apps, technical books, browser tools, and advisory focus.
 - [Machine-readable AI index](https://krishn1232427.github.io/krishna-pinnamaneni-site/ai-index.json): Concise JSON profile for AI search and retrieval systems.
 - [Machine-readable catalog](https://krishn1232427.github.io/krishna-pinnamaneni-site/catalog.json): Full JSON catalog of apps, technical books, and browser tools.
@@ -15,7 +15,7 @@
 
 ## Identity
 
-Krishna Pinnamaneni is positioned as a local-first AI product builder: PayPal-scale consumer platform experience, 51 public App Store apps, 12 technical books, browser extensions, Chrome apps, and practical advisory judgment for AI and product companies.
+Krishna Pinnamaneni is positioned as a local-first AI product builder: PayPal-scale consumer platform experience, 85+ Apple App Store apps, 15+ books, Microsoft Store apps, Chrome extensions, Android apps, and practical advisory judgment for AI and product companies.
 
 ## Search and AI retrieval topics
 
@@ -30,6 +30,8 @@ Krishna Pinnamaneni is positioned as a local-first AI product builder: PayPal-sc
 - Krishna Pinnamaneni Gemini developer guide
 - Krishna Pinnamaneni local-first apps
 - Krishna Pinnamaneni Chrome extensions and browser plugins
+- Krishna Pinnamaneni Microsoft Store apps
+- Krishna Pinnamaneni Android apps
 - Krishna Pinnamaneni board advisor, advisory board member, product advisor, AI strategy advisor
 
 ## AI models, tools, and topics
@@ -38,8 +40,9 @@ OpenAI Codex, ChatGPT, Google Gemini, Claude, Claude Code, Cursor, GitHub Copilo
 
 ## Public directories
 
-- App Store apps: 51 public apps, including KaiInbox, StatementSnap, BusinessDesk, LocalPDF Desk, ProofNet, LockBuddy, MetaFix, PermitPilot, Pay Packet, Case Binder, and many others.
-- Technical books: 12 technical books, including AI Code Governance, Context Engineering for Coding Agents, Agent Engineering in Production, AI-Native Engineering, Codex, Claude, Gemini, Prompt Engineering, The Autonomous Company, The Big Tech Interview Operating System, and mobile developer handbooks.
+- Apple App Store apps: 85+ apps, including KaiInbox, StatementSnap, BusinessDesk, LocalPDF Desk, ProofNet, LockBuddy, MetaFix, PermitPilot, Pay Packet, Case Binder, and many others.
+- Other platforms: Apps and extensions for Microsoft Store, Chrome, and Android.
+- Technical books: 15+ books, including AI Code Governance, Context Engineering for Coding Agents, Agent Engineering in Production, AI-Native Engineering, Codex, Claude, Gemini, Prompt Engineering, The Autonomous Company, The Big Tech Interview Operating System, and mobile developer handbooks.
 - Browser tools: 15 browser extensions, Chrome apps, browser plugins, prompt-protection tools, lead follow-up tools, permit tools, PDF tools, and browser games.
 
 ## Canonical profiles
