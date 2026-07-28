@@ -12,7 +12,7 @@ Published URL: <https://krishn1232427.github.io/krishna-pinnamaneni-site/>
 - `advisory.html` - board/advisory positioning for AI, commerce, privacy,
   product strategy, and local-first software.
 - `apps-books-plugins.html` - portfolio catalog page for 90+ Apple App Store
-  apps, 20+ books, Microsoft Store apps, Chrome extensions, and Android apps.
+  apps, 25+ books, Microsoft Store apps, Chrome extensions, and Android apps.
 - `styles.css` - the visual system and responsive layout.
 - `assets/` - copied local app icons and book cover artwork used by the page.
 - `favicon.svg` and `site.webmanifest` - browser identity files.

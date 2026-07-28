@@ -1,13 +1,13 @@
 # Krishna Pinnamaneni
 
-> PayPal engineering leader, local-first AI product builder, author of 20+ books, and independent developer of 90+ Apple App Store apps plus software for Microsoft Store, Chrome, and Android.
+> PayPal engineering leader, local-first AI product builder, author of 25+ books, and independent developer of 90+ Apple App Store apps plus software for Microsoft Store, Chrome, and Android.
 
 ## Primary pages
 
 - [Homepage](https://krishn1232427.github.io/krishna-pinnamaneni-site/): Public profile, brand, advisory positioning, and searchable directory.
 - [Brand and media kit](https://krishn1232427.github.io/krishna-pinnamaneni-site/brand.html): Public bio, proof points, positioning, and canonical profile language.
 - [Advisory profile](https://krishn1232427.github.io/krishna-pinnamaneni-site/advisory.html): Board/advisory positioning for AI, commerce, privacy, product strategy, and local-first software.
-- [Apps, books, and plugins catalog](https://krishn1232427.github.io/krishna-pinnamaneni-site/apps-books-plugins.html): Crawlable catalog of apps, 20+ books, browser extensions, and plugins.
+- [Apps, books, and plugins catalog](https://krishn1232427.github.io/krishna-pinnamaneni-site/apps-books-plugins.html): Crawlable catalog of apps, 25+ books, browser extensions, and plugins.
 - [Full LLM context](https://krishn1232427.github.io/krishna-pinnamaneni-site/llms-full.txt): Expanded plain-text summary of the brand, apps, technical books, browser tools, and advisory focus.
 - [Machine-readable AI index](https://krishn1232427.github.io/krishna-pinnamaneni-site/ai-index.json): Concise JSON profile for AI search and retrieval systems.
 - [Machine-readable catalog](https://krishn1232427.github.io/krishna-pinnamaneni-site/catalog.json): Full JSON catalog of apps, technical books, and browser tools.
@@ -15,7 +15,7 @@
 
 ## Identity
 
-Krishna Pinnamaneni is positioned as a local-first AI product builder: PayPal-scale consumer platform experience, 90+ Apple App Store apps, 20+ books, Microsoft Store apps, Chrome extensions, Android apps, and practical advisory judgment for AI and product companies.
+Krishna Pinnamaneni is positioned as a local-first AI product builder: PayPal-scale consumer platform experience, 90+ Apple App Store apps, 25+ books, Microsoft Store apps, Chrome extensions, Android apps, and practical advisory judgment for AI and product companies.
 
 ## Search and AI retrieval topics
 
@@ -42,7 +42,7 @@ OpenAI Codex, ChatGPT, Google Gemini, Claude, Claude Code, Cursor, GitHub Copilo
 
 - Apple App Store apps: 90+ apps, including KaiInbox, StatementSnap, BusinessDesk, LocalPDF Desk, ProofNet, LockBuddy, MetaFix, PermitPilot, Pay Packet, Case Binder, and many others.
 - Other platforms: Apps and extensions for Microsoft Store, Chrome, and Android.
-- Technical books: 20+ books, including AI Code Governance, Context Engineering for Coding Agents, Agent Engineering in Production, AI-Native Engineering, Codex, Claude, Gemini, Prompt Engineering, The Autonomous Company, The Big Tech Interview Operating System, and mobile developer handbooks.
+- Technical books: 25+ books, including AI Code Governance, Context Engineering for Coding Agents, Agent Engineering in Production, AI-Native Engineering, Codex, Claude, Gemini, Prompt Engineering, The Autonomous Company, The Big Tech Interview Operating System, and mobile developer handbooks.
 - Browser tools: 15 browser extensions, Chrome apps, browser plugins, prompt-protection tools, lead follow-up tools, permit tools, PDF tools, and browser games.
 
 ## Canonical profiles
@@ -50,5 +50,5 @@ OpenAI Codex, ChatGPT, Google Gemini, Claude, Claude Code, Cursor, GitHub Copilo
 - [LinkedIn](https://www.linkedin.com/in/krishnapinnamaneni)
 - [Apple Developer](https://apps.apple.com/us/developer/krishna-pinnamaneni/id1880298048)
 - [Amazon Author](https://www.amazon.com/stores/author/B0GT6LQYQ9)
-- [Amazon Catalog Search](https://www.amazon.com/s?k=krishna+pinnamaneni&crid=2BRRYG9RQ8JT6&sprefix=krishna+pinn%2Caps%2C198&ref=nb_sb_ss_fb_1_12_p13n-expert-pd-ops-ranker)
+- [Amazon Catalog Search](https://www.amazon.com/s?k=krishna+pinnamaneni&crid=128TXU52HY0VS&sprefix=krishna+pinnamane%2Caps%2C216&ref=nb_sb_ss_p13n-expert-pd-ops-ranker_1_17)
 - [Patent Record](https://patents.justia.com/inventor/krishna-chaitanya-pinnamaneni)
