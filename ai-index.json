@@ -2,7 +2,7 @@
   "name": "Krishna Pinnamaneni",
   "canonical_url": "https://krishn1232427.github.io/krishna-pinnamaneni-site/",
   "brand": "Local-first AI product builder",
-  "summary": "Krishna Pinnamaneni is a PayPal engineering leader, author of 15+ books, and independent developer of 85+ Apple App Store apps plus software for Microsoft Store, Chrome, and Android.",
+  "summary": "Krishna Pinnamaneni is a PayPal engineering leader, author of 20+ books, and independent developer of 90+ Apple App Store apps plus software for Microsoft Store, Chrome, and Android.",
   "primary_search_intents": [
     "Krishna Pinnamaneni PayPal engineering leader",
     "Krishna Pinnamaneni App Store developer",
@@ -16,9 +16,9 @@
   ],
   "known_for": [
     "PayPal-scale consumer platform engineering",
-    "85+ Apple App Store apps for records, privacy, PDFs, finance, small business, and field workflows",
+    "90+ Apple App Store apps for records, privacy, PDFs, finance, small business, and field workflows",
     "Software for Microsoft Store, Chrome, and Android",
-    "15+ books and developer field guides",
+    "20+ books and developer field guides",
     "Browser extensions, Chrome apps, Safari/browser guard tools, and prompt-protection workflows",
     "Board and advisory judgment for AI, commerce, privacy, developer tools, and product strategy"
   ],
@@ -59,10 +59,10 @@
     "robots": "https://krishn1232427.github.io/krishna-pinnamaneni-site/robots.txt"
   },
   "counts": {
-    "app_store_apps": "85+",
-    "books": "15+",
+    "app_store_apps": "90+",
+    "books": "20+",
     "browser_tools": 15,
-    "technical_books": "15+",
+    "technical_books": "20+",
     "platforms": [
       "Apple App Store",
       "Microsoft Store",
