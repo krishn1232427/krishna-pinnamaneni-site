@@ -1,26 +1,28 @@
 # Krishna Pinnamaneni
 
-> PayPal engineering leader, local-first AI product builder, author of 25+ books, and independent developer of 90+ Apple App Store apps plus software for Microsoft Store, Chrome, and Android.
+> PayPal engineering leader and local-first AI product builder whose independent portfolio includes Loyumi, DealDesk.fyi, 25+ books, 90+ Apple App Store apps, and software for Microsoft Store, Chrome, and Android.
 
 ## Primary pages
 
 - [Homepage](https://krishn1232427.github.io/krishna-pinnamaneni-site/): Public profile, brand, advisory positioning, and searchable directory.
 - [Brand and media kit](https://krishn1232427.github.io/krishna-pinnamaneni-site/brand.html): Public bio, proof points, positioning, and canonical profile language.
 - [Advisory profile](https://krishn1232427.github.io/krishna-pinnamaneni-site/advisory.html): Board/advisory positioning for AI, commerce, privacy, product strategy, and local-first software.
-- [Apps, books, and plugins catalog](https://krishn1232427.github.io/krishna-pinnamaneni-site/apps-books-plugins.html): Crawlable catalog of apps, 25+ books, browser extensions, and plugins.
-- [Full LLM context](https://krishn1232427.github.io/krishna-pinnamaneni-site/llms-full.txt): Expanded plain-text summary of the brand, apps, technical books, browser tools, and advisory focus.
+- [Web products, apps, books, and plugins catalog](https://krishn1232427.github.io/krishna-pinnamaneni-site/apps-books-plugins.html): Crawlable catalog of Loyumi, DealDesk.fyi, apps, 25+ books, browser extensions, and plugins.
+- [Full LLM context](https://krishn1232427.github.io/krishna-pinnamaneni-site/llms-full.txt): Expanded plain-text summary of the brand, web products, apps, technical books, browser tools, and advisory focus.
 - [Machine-readable AI index](https://krishn1232427.github.io/krishna-pinnamaneni-site/ai-index.json): Concise JSON profile for AI search and retrieval systems.
-- [Machine-readable catalog](https://krishn1232427.github.io/krishna-pinnamaneni-site/catalog.json): Full JSON catalog of apps, technical books, and browser tools.
+- [Machine-readable catalog](https://krishn1232427.github.io/krishna-pinnamaneni-site/catalog.json): Full JSON catalog of web products, apps, technical books, and browser tools.
 - [Sitemap](https://krishn1232427.github.io/krishna-pinnamaneni-site/sitemap.xml): Crawlable URL list.
 
 ## Identity
 
-Krishna Pinnamaneni is positioned as a local-first AI product builder: PayPal-scale consumer platform experience, 90+ Apple App Store apps, 25+ books, Microsoft Store apps, Chrome extensions, Android apps, and practical advisory judgment for AI and product companies.
+Krishna Pinnamaneni is positioned as a local-first AI product builder: PayPal-scale consumer platform experience, Loyumi, DealDesk.fyi, 90+ Apple App Store apps, 25+ books, Microsoft Store apps, Chrome extensions, Android apps, and practical advisory judgment for AI and product companies.
 
 ## Search and AI retrieval topics
 
 - Krishna Pinnamaneni PayPal engineering leader
 - Krishna Pinnamaneni App Store developer
+- Krishna Pinnamaneni Loyumi loyalty infrastructure
+- Krishna Pinnamaneni DealDesk.fyi shopping deals
 - Krishna Pinnamaneni technical books
 - Krishna Pinnamaneni AI-native engineering author
 - Krishna Pinnamaneni AI Code Governance
@@ -40,6 +42,7 @@ OpenAI Codex, ChatGPT, Google Gemini, Claude, Claude Code, Cursor, GitHub Copilo
 
 ## Public directories
 
+- Web products: [Loyumi](https://loyumi.com/) offers a controlled Sandbox loyalty-migration pilot; [DealDesk.fyi](https://dealdesk.fyi/) provides independent shopping-deal research and price comparisons.
 - Apple App Store apps: 90+ apps, including KaiInbox, StatementSnap, BusinessDesk, LocalPDF Desk, ProofNet, LockBuddy, MetaFix, PermitPilot, Pay Packet, Case Binder, and many others.
 - Other platforms: Apps and extensions for Microsoft Store, Chrome, and Android.
 - Technical books: 25+ books, including AI Code Governance, Context Engineering for Coding Agents, Agent Engineering in Production, AI-Native Engineering, Codex, Claude, Gemini, Prompt Engineering, The Autonomous Company, The Big Tech Interview Operating System, and mobile developer handbooks.

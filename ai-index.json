@@ -2,10 +2,12 @@
   "name": "Krishna Pinnamaneni",
   "canonical_url": "https://krishn1232427.github.io/krishna-pinnamaneni-site/",
   "brand": "Local-first AI product builder",
-  "summary": "Krishna Pinnamaneni is a PayPal engineering leader, author of 25+ books, and independent developer of 90+ Apple App Store apps plus software for Microsoft Store, Chrome, and Android.",
+  "summary": "Krishna Pinnamaneni is a PayPal engineering leader whose independent portfolio includes Loyumi, DealDesk.fyi, 25+ books, 90+ Apple App Store apps, and software for Microsoft Store, Chrome, and Android.",
   "primary_search_intents": [
     "Krishna Pinnamaneni PayPal engineering leader",
     "Krishna Pinnamaneni App Store developer",
+    "Krishna Pinnamaneni Loyumi loyalty infrastructure",
+    "Krishna Pinnamaneni DealDesk.fyi shopping deals",
     "Krishna Pinnamaneni AI-native engineering author",
     "Krishna Pinnamaneni Codex developer guide",
     "Krishna Pinnamaneni Gemini developer guide",
@@ -16,6 +18,8 @@
   ],
   "known_for": [
     "PayPal-scale consumer platform engineering",
+    "Loyumi controlled loyalty-migration and reconciliation pilot",
+    "DealDesk.fyi independent shopping-deal research",
     "90+ Apple App Store apps for records, privacy, PDFs, finance, small business, and field workflows",
     "Software for Microsoft Store, Chrome, and Android",
     "25+ books and developer field guides",
@@ -59,11 +63,13 @@
     "robots": "https://krishn1232427.github.io/krishna-pinnamaneni-site/robots.txt"
   },
   "counts": {
+    "web_products": 2,
     "app_store_apps": "90+",
     "books": "25+",
     "browser_tools": 15,
     "technical_books": "25+",
     "platforms": [
+      "Web",
       "Apple App Store",
       "Microsoft Store",
       "Chrome",
@@ -77,6 +83,20 @@
     "amazon_catalog_search": "https://www.amazon.com/s?k=krishna+pinnamaneni&crid=128TXU52HY0VS&sprefix=krishna+pinnamane%2Caps%2C216&ref=nb_sb_ss_p13n-expert-pd-ops-ranker_1_17",
     "patent_record": "https://patents.justia.com/inventor/krishna-chaitanya-pinnamaneni"
   },
+  "web_products": [
+    {
+      "name": "Loyumi",
+      "category": "Loyalty infrastructure",
+      "summary": "A controlled Sandbox loyalty-migration pilot for mapping balances and rules, proving return paths, and making a reviewable replacement decision.",
+      "url": "https://loyumi.com/"
+    },
+    {
+      "name": "DealDesk.fyi",
+      "category": "Shopping and price comparison",
+      "summary": "Independent shopping-deal research with verified prices, transparent comparisons, merchant context, and visible check dates.",
+      "url": "https://dealdesk.fyi/"
+    }
+  ],
   "technical_books": [
     {
       "name": "AI Code Governance",

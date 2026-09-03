@@ -273,7 +273,7 @@ a {
   bottom: 26px;
   left: clamp(18px, 5vw, 72px);
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1px;
   overflow: hidden;
   border: 1px solid var(--line);
@@ -693,6 +693,7 @@ a {
 
 .directory-block {
   margin-top: clamp(34px, 6vw, 62px);
+  scroll-margin-top: 92px;
 }
 
 .directory-heading-row {
@@ -735,6 +736,10 @@ a {
 .directory-grid-books,
 .directory-grid-extensions {
   grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.directory-grid-web {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
 .directory-card {
@@ -1035,7 +1040,7 @@ a {
   }
 
   .hero {
-    padding-bottom: 250px;
+    padding-bottom: 330px;
   }
 
   .hero-copy,

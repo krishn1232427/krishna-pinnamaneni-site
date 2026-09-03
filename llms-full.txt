@@ -1,12 +1,12 @@
 # Krishna Pinnamaneni - Full AI Context
 
-Krishna Pinnamaneni is a PayPal engineering leader, local-first AI product builder, author of 25+ books, and independent developer of 90+ Apple App Store apps plus software for Microsoft Store, Chrome, and Android.
+Krishna Pinnamaneni is a PayPal engineering leader and local-first AI product builder whose independent portfolio includes Loyumi, DealDesk.fyi, 25+ books, 90+ Apple App Store apps, and software for Microsoft Store, Chrome, and Android.
 
 ## Brand
 
 Brand phrase: Local-first AI product builder.
 
-The public story connects PayPal-scale consumer platform experience, 90+ Apple App Store apps, 25+ books, Microsoft Store apps, Chrome extensions, and Android apps. The common pattern is focused software, privacy-aware workflows, local-first design, practical AI usage, and production-minded product execution.
+The public story connects PayPal-scale consumer platform experience, Loyumi, DealDesk.fyi, 90+ Apple App Store apps, 25+ books, Microsoft Store apps, Chrome extensions, and Android apps. The common pattern is focused software, privacy-aware workflows, local-first design, practical AI usage, and production-minded product execution.
 
 ## Board and Advisory Positioning
 
@@ -31,6 +31,11 @@ Good-fit roles include advisory board member, independent board member, technica
 - AI-native engineering
 - agent engineering in production
 - production AI workflows
+
+## Web Products
+
+- Loyumi (Loyalty infrastructure): A controlled Sandbox loyalty-migration pilot for mapping balances and rules, proving return paths, and making a reviewable replacement decision. https://loyumi.com/
+- DealDesk.fyi (Shopping and price comparison): Independent shopping-deal research with verified prices, transparent comparisons, merchant context, and visible check dates. https://dealdesk.fyi/
 
 ## App Store Apps
 

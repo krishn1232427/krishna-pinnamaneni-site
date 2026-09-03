@@ -1,15 +1,36 @@
 {
   "name": "Krishna Pinnamaneni product and content catalog",
   "canonical_url": "https://krishn1232427.github.io/krishna-pinnamaneni-site/",
-  "last_updated": "2026-07-06",
+  "last_updated": "2026-09-02",
   "owner": "Krishna Pinnamaneni",
   "brand": "Local-first AI product builder",
   "counts": {
+    "web_products": 2,
     "app_store_apps": "90+",
     "books": "25+",
     "browser_tools": 15,
     "technical_books": "25+"
   },
+  "web_products": [
+    {
+      "name": "Loyumi",
+      "category": "Loyalty infrastructure",
+      "platforms": [
+        "Web"
+      ],
+      "url": "https://loyumi.com/",
+      "summary": "A controlled Sandbox loyalty-migration pilot for mapping balances and rules, proving return paths, and making a reviewable replacement decision."
+    },
+    {
+      "name": "DealDesk.fyi",
+      "category": "Shopping and price comparison",
+      "platforms": [
+        "Web"
+      ],
+      "url": "https://dealdesk.fyi/",
+      "summary": "Independent shopping-deal research with verified prices, transparent comparisons, merchant context, and visible check dates."
+    }
+  ],
   "apps": [
     {
       "name": "StatementSnap",
