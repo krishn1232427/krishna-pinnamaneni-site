@@ -1,8 +1,8 @@
 {
   "name": "Krishna Pinnamaneni",
   "canonical_url": "https://krishn1232427.github.io/krishna-pinnamaneni-site/",
-  "brand": "Local-first AI product builder",
-  "summary": "Krishna Pinnamaneni is a PayPal engineering leader whose independent portfolio includes Loyumi, DealDesk.fyi, 25+ books, 90+ Apple App Store apps, and software for Microsoft Store, Chrome, and Android.",
+  "brand": "Engineering leader and independent builder",
+  "summary": "Krishna Pinnamaneni is a PayPal engineering leader with 16+ years of experience building platforms, growing engineering organizations, and delivering consumer products. Independent builder of 100+ apps across platforms and author of 25+ books.",
   "primary_search_intents": [
     "Krishna Pinnamaneni PayPal engineering leader",
     "Krishna Pinnamaneni App Store developer",
@@ -17,6 +17,9 @@
     "Krishna Pinnamaneni board advisor AI product strategy"
   ],
   "known_for": [
+    "Leading engineering managers and a 50+ engineer organization",
+    "Companywide UI platform enabling 500+ engineers and reducing product development time by 25%",
+    "Subscriber Index GraphQL platform handling 50M+ requests per day",
     "PayPal-scale consumer platform engineering",
     "Loyumi controlled loyalty-migration and reconciliation pilot",
     "DealDesk.fyi independent shopping-deal research",
@@ -74,7 +77,8 @@
       "Microsoft Store",
       "Chrome",
       "Android"
-    ]
+    ],
+    "independent_apps_across_platforms": "100+"
   },
   "canonical_profiles": {
     "linkedin": "https://www.linkedin.com/in/krishnapinnamaneni",
@@ -178,5 +182,18 @@
       "summary": "A series hub for AI-native developer guides and production AI engineering workflows.",
       "url": "https://www.amazon.com/The-AI-Native-Developer-Bible-Series/dp/B0H16PY3N4"
     }
-  ]
+  ],
+  "experience_years": "16+",
+  "current_role": "Senior Manager, Software Engineering at PayPal",
+  "leadership_scope": {
+    "directly_reporting_engineering_managers": 3,
+    "engineers_in_organization": "50+",
+    "domains": [
+      "Home",
+      "Shopping",
+      "Loyalty",
+      "Profile Hub",
+      "Growth"
+    ]
+  }
 }

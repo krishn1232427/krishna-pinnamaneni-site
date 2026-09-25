@@ -1,6 +1,16 @@
 # Krishna Pinnamaneni - Full AI Context
 
-Krishna Pinnamaneni is a PayPal engineering leader and local-first AI product builder whose independent portfolio includes Loyumi, DealDesk.fyi, 25+ books, 90+ Apple App Store apps, and software for Microsoft Store, Chrome, and Android.
+Krishna Pinnamaneni is a PayPal engineering leader with 16+ years of experience building platforms, growing engineering organizations, and delivering consumer products. Independent builder of 100+ apps across platforms and author of 25+ books.
+
+## Engineering leadership
+
+- 16+ years of engineering experience across PayPal, ADP, and Verizon.
+- Senior Manager, Software Engineering at PayPal since May 2025; at PayPal since September 2017.
+- Three directly reporting engineering managers and 50+ engineers in the organization across backend, web, iOS, and Android.
+- Built a companywide UI platform from zero, enabling 500+ engineers across PayPal, Venmo, Xoom, Honey, and iZettle and reducing product development time by 25%.
+- Built the Subscriber Index GraphQL relationship platform handling 50M+ requests per day.
+- Independent portfolio: 100+ apps across platforms, including 90+ Apple App Store apps, and 25+ books. Personal projects are independent of PayPal.
+- Agent-payment work uses simulated payment rails; the AI evaluation toolkit is educational. Neither is a claim of production payment or enterprise AI deployment.
 
 ## Brand
 

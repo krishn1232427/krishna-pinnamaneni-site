@@ -7,8 +7,8 @@ Published URL: <https://krishn1232427.github.io/krishna-pinnamaneni-site/>
 ## Files
 
 - `index.html` - the homepage content, metadata, structured data, FAQ, and
-  primary portfolio directory.
-- `brand.html` - profile, bio, highlights, and work summary.
+  selected leadership outcomes and independent projects.
+- `brand.html` - career, leadership scope, platform outcomes, and professional bio.
 - `advisory.html` - board/advisory positioning for AI, commerce, privacy,
   product strategy, and local-first software.
 - `apps-books-plugins.html` - portfolio catalog page for Loyumi, DealDesk.fyi,
